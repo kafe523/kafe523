@@ -1,15 +1,7 @@
-<!--
-- 👋 Hi, I’m @kafe523
-- 🌱 I’m currently learning Anything, like Github.
-- 📫 Currely no way can reach me. :D
--->
+Greetings Stranger,
 
-<!---
-kafe523/kafe523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+There two things I know.
 
+> "I know that I know nothing." - Socrates
 
-Greetings
-
-Just begin to learn programme and web development.
+> “We don’t make mistakes here, just happy accidents.” - Bob Ross
